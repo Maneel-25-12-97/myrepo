@@ -1,0 +1,28 @@
+{
+"trainers": [
+{
+"id":1,
+"names": "shakthi",
+"location":"bangalore",
+"mobile":"1234567890",
+"subject":["manual","java"]
+},
+
+
+{
+"id":2,
+"names": "kiran",
+"location":"bangalore",
+"mobile":"0123456789",
+"subject":["java","selenium"]
+},
+
+{
+"id":3,
+"names": "abhishek",
+"location":"bangalore",
+"mobile":"0021548892",
+"subject":["manual","API"]
+ }
+]
+}
